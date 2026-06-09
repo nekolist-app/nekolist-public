@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "title": "Version 1.1.1 (Latest)",
+    "date": "2026-06-09",
+    "type": "update",
+    "content": "Fixed issues with the updater checker."
+  },
+  {
+    "id": 1,
+    "title": "Discord Community",
+    "date": "2026-06-08",
+    "type": "announcement",
+    "content": "Join our Discord server to suggest features and report bugs."
+  }
+]
