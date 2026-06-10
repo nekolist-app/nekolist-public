@@ -76,3 +76,9 @@ If you find a bug or unexpected behavior, please open an issue and include as mu
 If NekoList is useful to you, consider supporting its development through Ko-fi.
 
 Thank you for helping improve the project ❤️
+
+## 📍 LICENSE
+<div align="center">
+<pre>Copyright © 2026 NekoList. 
+All rights reserved.</pre>
+</div>
