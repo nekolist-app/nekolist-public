@@ -57,6 +57,41 @@
 
 ---
 
+## ❓FAQ
+
+<details>
+<summary><strong>What is NekoList?</strong></summary>
+
+NekoList is a app designed to help you organize your favorite manhwas.
+
+</details>
+
+<details>
+<summary><strong>Do I need to register?</strong></summary>
+
+Yes. You need to create an account and log in to use NekoList.
+
+</details>
+
+<details>
+<summary><strong>Can I read or download manhwa here?</strong></summary>
+
+No.
+
+NekoList does not provide manhwa for reading or downloading. It is a database and tracking platform focused on helping users organize their reading progress.
+
+</details>
+
+<details>
+<summary><strong>I can't find a series. What should I do?</strong></summary>
+
+Our database is constantly growing. You can also join our Discord server and suggest series in the **#register-series** channel.
+
+</details>
+
+
+---
+
 ## 🐛 Known Issues
 
 If you find a bug or unexpected behavior, please open an issue and include as much detail as possible.
